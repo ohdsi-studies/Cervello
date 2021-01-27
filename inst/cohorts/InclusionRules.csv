@@ -1,0 +1,15 @@
+"cohortName","ruleSequence","ruleName","cohortId"
+"Anxietydisorders",0,"Has no prior diagnosis of bipolar disorder",3042
+"Anxietydisorders",1,"Has no prior Lithium exposure",3042
+"Anxietydisorders",4,"Has no prior anti-dementia drug exposures ",3042
+"Anxietydisorders",2,"Has no prior diagnosis of non-affective psychoses",3042
+"Anxietydisorders",3,"Has no prior diagnosis of dementia",3042
+"Depressivedisorders",0,"Has no prior diagnosis of bipolar disorder",3067
+"Depressivedisorders",3,"individuals who do not have prior dementia ",3067
+"Depressivedisorders",4,"individuals who do not have prior anti-dementia drug",3067
+"Depressivedisorders",1,"No prior Lithium exposure",3067
+"Depressivedisorders",2,"Has no prior diagnosis of non-affective psychoses",3067
+"Dementia",2,"Has no prior diagnosis of dementia due to Huntington chore",3072
+"Dementia",3,"Has no prior diagnosis of Parkinsons disease",3072
+"Dementia",0,"Has no prior diagnosis of HIV",3072
+"Dementia",1,"Has no prior diagnosis of dementia due to Picks disease",3072
