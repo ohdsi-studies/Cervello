@@ -1,0 +1,20 @@
+Package: cervello
+Type: Package
+Title: People with mental health conditions during a pandemic
+Version: 0.0.1
+Author: Carmen Olga Torre [aut, cre]
+Maintainer: Martijn J. Schuemie <schuemie@ohdsi.org>
+Description: Characterisation: the effect of the COVID-19 pandemic on people with mental health conditions
+Depends:
+    DatabaseConnector (>= 2.2.0)
+Imports:
+	CohortDiagnostics
+Suggests:
+    knitr,
+    rmarkdown,
+    ROhdsiWebApi,
+    OhdsiRTools
+License: Apache License 2.0
+VignetteBuilder: knitr
+LazyData: TRUE
+RoxygenNote: 7.1.1

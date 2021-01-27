@@ -1,0 +1,266 @@
+{
+  "ConceptSets": [
+    {
+      "id": 0,
+      "name": "[cervello] Alcohol misuse or dependence",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_ID": 433753,
+              "CONCEPT_NAME": "Alcohol abuse",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "15167005",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 435243,
+              "CONCEPT_NAME": "Alcohol dependence",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "66590003",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 4218106,
+              "CONCEPT_NAME": "Alcoholism",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "7200002",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 439005,
+              "CONCEPT_NAME": "Chronic alcoholism in remission",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "191813001",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 436953,
+              "CONCEPT_NAME": "Continuous chronic alcoholism",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "191811004",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 435532,
+              "CONCEPT_NAME": "Episodic chronic alcoholism",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "191812006",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 433735,
+              "CONCEPT_NAME": "Acute alcoholic intoxication in alcoholism",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "191802004",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 432609,
+              "CONCEPT_NAME": "Acute alcoholic intoxication in remission, in alcoholism",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "191806001",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 44788279,
+              "CONCEPT_NAME": "Alcohol misuse - enhanced services administration",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "166251000000100",
+              "DOMAIN_ID": "Observation",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 4275257,
+              "CONCEPT_NAME": "Detoxication psychiatric therapy for alcoholism",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "64297001",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 378726,
+              "CONCEPT_NAME": "Dementia associated with alcoholism",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "281004",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 44788303,
+              "CONCEPT_NAME": "Alcohol misuse - enhanced service completed",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "166471000000105",
+              "DOMAIN_ID": "Observation",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Clinical Finding"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_ID": 4296409,
+              "CONCEPT_NAME": "Substance use treatment: alcohol withdrawal",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "386449006",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "SNOMED",
+              "CONCEPT_CLASS_ID": "Procedure"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {
+        "ConditionOccurrence": {
+          "CodesetId": 0,
+          "OccurrenceStartDate": {
+            "Value": "2015-12-31",
+            "Extent": "2019-12-31",
+            "Op": "bt"
+          }
+        }
+      },
+      {
+        "Observation": {
+          "CodesetId": 0,
+          "OccurrenceStartDate": {
+            "Value": "2015-12-31",
+            "Extent": "2019-12-31",
+            "Op": "bt"
+          }
+        }
+      },
+      {
+        "ProcedureOccurrence": {
+          "CodesetId": 0,
+          "OccurrenceStartDate": {
+            "Value": "2015-12-31",
+            "Extent": "2019-12-31",
+            "Op": "bt"
+          }
+        }
+      }
+    ],
+    "ObservationWindow": {
+      "PriorDays": 0,
+      "PostDays": 0
+    },
+    "PrimaryCriteriaLimit": {
+      "Type": "All"
+    }
+  },
+  "QualifiedLimit": {
+    "Type": "First"
+  },
+  "ExpressionLimit": {
+    "Type": "First"
+  },
+  "InclusionRules": [],
+  "CensoringCriteria": [
+    {
+      "Death": {}
+    }
+  ],
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {},
+  "cdmVersionRange": ">=5.0.0"
+}
