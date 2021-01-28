@@ -10,7 +10,7 @@ Covid-19 pandEmic impacts on mental health Related conditions Via multi-database
 - Study lead forums tag: **[CarmenOT](https://forums.ohdsi.org/u/carmenot)**
 - Study start date: **21st January, 2021**
 - Study end date: **15th February 2021**
-- Protocol: **[Word Doc](https://github.com/carmenOT/cervello/blob/main/documents/OHDSI%20Protocol%20COVID%20mental%20health%20V1.4.docx)**\
+- Protocol: **[Word Doc](https://github.com/carmenOT/cervello/blob/main/documents/OHDSI%20Protocol%20COVID%20mental%20health%20V1.4.docx)**
 - Publications: **-**
 - Results explorer: **-**
 
