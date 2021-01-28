@@ -5,12 +5,14 @@ Covid-19 pandEmic impacts on mental health Related conditions Via multi-database
 
 - Analytics use case(s): **Characterization**
 - Study type: **Clinical Application**
-- Tags: **OHDSI, psychiatryWG, mental-health, covid-19**
+- Tags: **psychiatryWG, mental-health, COVID-19**
 - Study lead: **Carmen Olga Torre, Hao Luo**
 - Study lead forums tag: **[CarmenOT](https://forums.ohdsi.org/u/carmenot)**
 - Study start date: **21st January, 2021**
 - Study end date: **15th February 2021**
-- Protocol: **[Word Doc](https://github.com/carmenOT/cervello/blob/main/documents/OHDSI%20Protocol%20COVID%20mental%20health%20V1.4.docx)**
+- Protocol: **[Word Doc](https://github.com/carmenOT/cervello/blob/main/documents/OHDSI%20Protocol%20COVID%20mental%20health%20V1.4.docx)**\
+- Publications: **-**
+- Results explorer: **-**
 
 The primary objective of this study is to describe the baseline demographic, clinical characteristics, treatments and outcomes of interest among individuals with mental health conditions during the COVID-19 pandemic overall and stratified by sex, age, race and specific comorbidities.
 
