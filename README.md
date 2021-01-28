@@ -32,9 +32,6 @@ The study repo has the following major pieces:
 
 Below you will find instructions for how to bring this package into your `R`/ `RStudio` environment. Note that if you are not able to connect to the internet in `R`/ `RStudio` to download pacakges, you will have to pull the [TAR file](https://github.com/carmenOT/cervello/archive/master.zip). 
 
-##### *What should I do if I get an error when I run the package?*
-If you have any issues running the package, please report bugs / roadblocks via [GitHub Issues](https://github.com/ohdsi-studies/Covid19CharacterizationCharybdis/issues) on this repo. Where possible, we ask you share error logs and snippets of warning messages that come up in your `R` console. You may also attach screenshots. Please include the RDMBS (aka your SQL dialect) you work on. If possible, run `traceback()` in your `R` and paste this into your error as well. The study leads will triage these errors with you.
-
 ##### *What should I do when I finish?*
 If you finish running a study package, send the file ```diagnosticsExport/Results_<DatabaseId>.zip``` in the output folder to the study coordinator [Carmen O. Torre](mailto:carmenolga.torre@iqvia.com). The study team will be in touch within 24 hours to acknowledge receipt of your results and review results. If there are no issues, the results will be pushed to the RShiny app. If any errors occur in this process, the study lead will communicate with you and work to resolve this.
 
