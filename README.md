@@ -7,7 +7,7 @@ Covid-19 pandEmic impacts on mental health Related conditions Via multi-database
 - Study type: **Clinical Application**
 - Tags: **psychiatryWG, mental-health, COVID-19**
 - Study lead: **Carmen Olga Torre, Hao Luo**
-- Study lead forums tag: **[CarmenOT](https://forums.ohdsi.org/u/carmenot)**
+- Study lead forums tag: **[CarmenOT](https://forums.ohdsi.org/u/carmenot)** **[haoluo429](https://forums.ohdsi.org/u/haoluo429)**
 - Study start date: **21st January, 2021**
 - Study end date: **15th February 2021**
 - Protocol: **[Word Doc](https://github.com/ohdsi-studies/Cervello/tree/master/documents/OHDSI%20Protocol%20COVID%20mental%20health%20V1.4.docx)**
