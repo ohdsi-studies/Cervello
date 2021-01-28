@@ -19,9 +19,10 @@ The primary objective of this study is to describe the baseline demographic, cli
 ### FAQ
 
 ##### *What do I need to do to run the package?*
-OHDSI study  repos are designed to have information in the README.md (where you are now) to provide you with instructions on how to navigate the repo. This package has two major components:
-1. [CohortDiagnostics](http://www.github.com/ohdsi/cohortDiagnostics) - an OHDSI R package used to perform diagnostics around the fitness of use of the study phenotypes on your CDM. By running this package you will allow study leads to understand: cohort inclusion rule attrition, inspect source code lists for a phenotype, find orphan codes that should be in a particular concept set but are not, compute incidnece across calendar years, age and gender, break down index events into specific concepts that triggered then, compute overlap of two cohorts and compute basic characteristics of selected cohorts. This package will be requested of all sites. It is run on all available data. This allows us to understand how the study phenotypes perform in your database and identify any potential gaps in the phenotype definitions.
-2. RunStudy - the characterization package to evaluate Target-Stratum-Feature pairings computing cohort characteristics and creating tables/visualizations to summarize differences between groups.
+OHDSI study  repos are designed to have information in the README.md (where you are now) to provide you with instructions on how to navigate the repo. 
+This package has [CohortDiagnostics](http://www.github.com/ohdsi/cohortDiagnostics) as main component:
+It is an OHDSI R package used to perform diagnostics around the fitness of use of the study phenotypes on your CDM. By running this package you will allow study leads to understand: cohort inclusion rule attrition, inspect source code lists for a phenotype, find orphan codes that should be in a particular concept set but are not, compute incidnece across calendar years, age and gender, break down index events into specific concepts that triggered then, compute overlap of two cohorts and compute basic characteristics of selected cohorts. This package will be requested of all sites. It is run on all available data. This allows us to understand how the study phenotypes perform in your database and identify any potential gaps in the phenotype definitions.
+
 
 ##### *I don't understand the organization of this Github Repo.*
 The study repo has the following major pieces:
