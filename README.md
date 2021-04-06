@@ -79,21 +79,32 @@ If you finish running a study package, send the file ```diagnosticsExport/Result
 # variables. 
 ````
 
-2. To install the study package (which will build a new R library for you that is specifically for `Covid19CharacterizationCharybdis`), type the following into a new `R` script and run. You can also retrieve this code from `extras/CodeToRun.R`.
+2. To install the study package, type the following into a new `R` script and run. You can also retrieve this code from `extras/CodeToRun.R`.
 
 ````
-# Prevents errors due to packages being built for other R versions: 
-Sys.setenv("R_REMOTES_NO_ERRORS_FROM_WARNINGS" = TRUE)
-# 
-# First, it probably is best to make sure you are up-to-date on all existing packages.
-# Important: This code is best run in R, not RStudio, as RStudio may have some libraries
-# (like 'rlang') in use.
-#update.packages(ask = "graphics")
+# Make sure to install all dependencies (not needed if already done):
+# install.packages("SqlRender")
+# install.packages("DatabaseConnector")
+# install.packages("ggplot2")
+# install.packages("ParallelLogger")
+# install.packages("readr")
+# install.packages("tibble")
+# install.packages("dplyr")
+# install.packages("RJSONIO")
+# install.packages("devtools")
+# devtools::install_github("FeatureExtraction")
+# devtools::install_github("ROhdsiWebApi")
+# devtools::install_github("CohortDiagnostics")
 
 # When asked to update packages, select '1' ('update all') (could be multiple times)
 # When asked whether to install from source, select 'No' (could be multiple times)
-#install.packages("devtools")
-#devtools::install_github("carmenOT/cervello")
+
+#devtools::install_github("ohdsi-studies/Cervello")
+
+# Load the package
+library(cervello)
+
+
 ````
 - Note: if you have issues using devtools, you can still install the package downloading it and then installing it locally.
 
