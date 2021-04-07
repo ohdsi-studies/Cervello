@@ -1,7 +1,7 @@
 Covid-19 pandEmic impacts on mental health Related conditions Via multi-database nEtwork: a LongitutinaL Observational study (CERVELLO)
 =================
 
-<img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
+<img src="https://img.shields.io/badge/Study%20Status-Results%20Available-yellow.svg" alt="Study Status: Results Available"> 
 
 - Analytics use case(s): **Characterization**
 - Study type: **Clinical Application**
@@ -174,7 +174,7 @@ CohortDiagnostics::launchDiagnosticsExplorer(file.path(outputFolder, "diagnostic
 
 6. Share the results with the study lead
 
-Send the file ```diagnosticsExport/Results_<DatabaseId>.zip``` in the output folder to the study coordinator [Carmen O. Torre](mailto:carmenolga.torre@iqvia.com)
+Send the file ```diagnosticsExport/Results_<DatabaseId>.zip``` in the output folder to the study coordinator [Carmen O. Torre](mailto:carmenolgatorre@gmail.com)
 
 ### License
 
@@ -186,5 +186,5 @@ cervello was developed in ATLAS and R Studio.
 
 ### Results
 
-Send the file ```diagnosticsExport/Results_<DatabaseId>.zip``` in the output folder to the study coordinator [Carmen O. Torre](mailto:carmenolga.torre@iqvia.com).
+Send the file ```diagnosticsExport/Results_<DatabaseId>.zip``` in the output folder to the study coordinator [Carmen O. Torre](mailto:carmenolgatorre@gmail.com).
 
