@@ -1,7 +1,7 @@
 Covid-19 pandEmic impacts on mental health Related conditions Via multi-database nEtwork: a LongitutinaL Observational study (CERVELLO)
 =================
 
-<img src="https://img.shields.io/badge/Study%20Status-Results%20Available-yellow.svg" alt="Study Status: Results Available"> 
+<img src="https://img.shields.io/badge/Study%20Status-Complete-orange.svg" alt="Study Status: Results Available"> 
 
 - Analytics use case(s): **Characterization**
 - Study type: **Clinical Application**
@@ -11,7 +11,7 @@ Covid-19 pandEmic impacts on mental health Related conditions Via multi-database
 - Study start date: **21st January, 2021**
 - Study end date: **15th February 2021**
 - Protocol: **[Word Doc](https://github.com/ohdsi-studies/Cervello/tree/master/documents/OHDSI%20Protocol%20COVID%20mental%20health%20V1.4.docx)**
-- Publications: **-**
+- Publications: **[Rates of Antipsychotic Drug Prescribing Among People Living With Dementia During the COVID-19 Pandemic](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2800310)**
 - Results explorer: **[Shiny app](https://data.ohdsi.org/cervelloDiagnostics/)**
 
 The primary objective of this study is to describe the baseline demographic, clinical characteristics, treatments and outcomes of interest among individuals with mental health conditions during the COVID-19 pandemic overall and stratified by sex, age, race and specific comorbidities.
